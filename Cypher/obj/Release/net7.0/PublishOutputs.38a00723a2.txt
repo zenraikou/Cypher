@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Published .NET Projects\Cypher Game\Cypher.exe
+C:\Users\Admin\Documents\Published .NET Projects\Cypher Game\Cypher.dll
+C:\Users\Admin\Documents\Published .NET Projects\Cypher Game\Cypher.deps.json
+C:\Users\Admin\Documents\Published .NET Projects\Cypher Game\Cypher.runtimeconfig.json
+C:\Users\Admin\Documents\Published .NET Projects\Cypher Game\Cypher.pdb
